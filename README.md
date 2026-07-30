@@ -1,2 +1,1 @@
-# drupal-learning
-Drupal test account
+# Drupal Learning Environment2 3A sandbox Drupal installation used to learn:4 5- Drupal theming6- CSS7- Twig templates8- Custom modules9- LocalGov Drupal concepts10- GitHub version control11 12Created by Brad Evans.
