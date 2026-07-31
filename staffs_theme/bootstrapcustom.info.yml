@@ -5,7 +5,7 @@ base theme: bootstrap5
 core_version_requirement: ^10 || ^11
 
 libraries:
-  - staffs_theme/global-styling
+  - bootstrapcustom/global-styling
 
 regions:
   header: Header
