@@ -1,0 +1,7 @@
+name: Staffordshire GOV.UK
+type: theme
+description: Custom GOV.UK sub-theme for learning and development.
+core_version_requirement: ^11
+base theme: govuk
+libraries:
+- staffordshire_govuk/global-styling
