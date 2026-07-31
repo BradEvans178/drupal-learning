@@ -1,6 +1,6 @@
 .govuk-header {
     border-bottom: 1px solid transparent;
-    --govuk-text-colour: var(--govuk-inverse-text-colour, #ffffff);
-    color: var(--govuk-text-colour, #0b0c0c);
+    --govuk-text-colour: #ffffff;
+    color: #0b0c0c;
     background: pink;
 }
