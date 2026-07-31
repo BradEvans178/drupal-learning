@@ -1,19 +1,23 @@
 body {
-    background-color: #fff3cd !important;
-}
-
-h1 {
-    color: #d4351c !important;
-    font-size: 3rem !important;
+    background: hotpink !important;
+    border: 25px solid limegreen !important;
 }
 
 body::before {
-    content: "CSS Loaded From GitHub";
+    content: "🚨 GITHUB CSS IS WORKING 🚨";
     display: block;
-    background: #00703c;
-    color: white;
-    text-align: center;
-    padding: 10px;
+    background: red;
+    color: yellow;
+    font-size: 40px;
     font-weight: bold;
+    text-align: center;
+    padding: 30px;
+    position: sticky;
+    top: 0;
+    z-index: 9999;
 }
-``
+
+a {
+    color: blue !important;
+    font-size: 24px !important;
+}
