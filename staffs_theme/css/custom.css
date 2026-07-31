@@ -1,0 +1,44 @@
+:root {
+  --scc-blue: #005a9c;
+  --scc-dark-blue: #003865;
+  --scc-grey: #f5f5f5;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar,
+.site-header {
+  background-color: var(--scc-dark-blue);
+}
+
+.navbar a,
+.site-header a {
+  color: #ffffff;
+}
+
+.page-title {
+  color: var(--scc-dark-blue);
+  font-weight: 700;
+}
+
+.btn-primary {
+  background-color: var(--scc-blue);
+  border-color: var(--scc-blue);
+}
+
+.btn-primary:hover {
+  background-color: var(--scc-dark-blue);
+  border-color: var(--scc-dark-blue);
+}
+
+.region-footer {
+  background-color: var(--scc-dark-blue);
+  color: #ffffff;
+  padding: 2rem;
+}
+
+.region-footer a {
+  color: #ffffff;
+}
