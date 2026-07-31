@@ -1,6 +1,0 @@
-name: Staffordshire Learning
-type: theme
-description: Learning theme for Drupal experimentation
-core_version_requirement: ^10 || ^11
-base theme: olivero
-libraries:  - staffordshire-learning/global-styling
