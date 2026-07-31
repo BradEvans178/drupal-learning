@@ -41,15 +41,8 @@ body {
 
 .region-footer a {
   color: #ffffff;
-}
-h1.page-title,
-6
-.page-title {
-7
-color: red !important;
-8
-font-size: 48px !important;
-9
-text-transform: uppercase !important;
-10
+body {
+2
+background: #fff8cc !important;
+3
 }
