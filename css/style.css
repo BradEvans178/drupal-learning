@@ -1,52 +1,8 @@
-/* =========================
-   GITHUB TEST STYLES
-   ========================= */
-
-html,
 body {
-    background: hotpink !important;
-    border: 25px solid limegreen !important;
+    background: yellow !important;
 }
 
-body::before {
-    content: "🚨 GITHUB CSS IS WORKING 🚨";
-    display: block;
-    background: red;
-    color: yellow;
-    font-size: 40px;
-    font-weight: bold;
-    text-align: center;
-    padding: 30px;
-    margin-bottom: 20px;
-    z-index: 9999;
-}
-
-/* Make the main title impossible to miss */
 h1 {
-    color: cyan !important;
-    background: black !important;
-    font-size: 72px !important;
-    padding: 20px !important;
-    border: 10px solid yellow !important;
-}
-
-/* Turn all links bright orange */
-a {
-    color: orange !important;
-    font-size: 24px !important;
-    font-weight: bold !important;
-    text-decoration: underline !important;
-}
-
-/* Huge blue boxes */
-main,
-.content,
-.region-content {
-    background: deepskyblue !important;
-    padding: 20px !important;
-}
-
-/* Spin the GOV.UK logo for fun */
-.govuk-header__logotype {
-    transform: rotate(5deg);
+    color: red !important;
+    font-size: 50px !important;
 }
