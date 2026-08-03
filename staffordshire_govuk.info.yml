@@ -1,12 +1,12 @@
-name: Staffordshire GOV.UK
+name: Staffordshire GOV.UK bootstrap
 description: Staffordshire custom LocalGov Drupal theme
 type: theme
 core_version_requirement: ^10.1.3 || ^11
 
-base theme: localgov_base
+base theme: bootstrap5
 
 libraries:
-  - staffordshire_govuk/global-styling
+  - bootstrapcustom/global-styling
 
 regions:
   tabs: Tabs
